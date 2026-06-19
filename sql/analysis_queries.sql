@@ -1,5 +1,5 @@
 -- ============================================================
--- PROJECT : Marketing Analytics
+-- PROJECT : E-Commerce Growth Intelligence
 -- DATABASE : portfolioproject_marketinganalytics
 -- PURPOSE  : Data cleaning, enrichment, and transformation
 --            queries for Power BI ingestion
